@@ -22,25 +22,11 @@ Budget vs actual analysis helps show whether spending is aligned with planned fi
 
 ## Workbook Tabs
 
-### Dashboard
-
-Provides a high-level summary of budget performance using KPI cards and charts.
-
-### Budget vs Actual Data
-
-Contains the mock financial dataset used for the analysis, including departments, categories, budgeted amounts, actual amounts, variance, variance percentage, and status.
-
-### Monthly Summary
-
-Summarizes budgeted amount, actual spending, and variance by month.
-
-### Category Summary
-
-Summarizes budget performance by spending category.
-
-### Lists
-
-Contains reference values used in the workbook.
+- **Dashboard**: Provides a high-level summary of budget performance using KPI cards and charts.
+- **Budget vs Actual Data**: Contains the mock financial dataset used for the analysis.
+- **Monthly Summary**: Summarizes budgeted amount, actual spending, and variance by month.
+- **Category Summary**: Summarizes budget performance by spending category.
+- **Lists**: Contains reference values used in the workbook.
 
 ## Key Features
 
@@ -52,6 +38,24 @@ Contains reference values used in the workbook.
 - Dashboard KPIs and charts
 - Over-budget and under-budget status tracking
 - Organized mock financial dataset
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard Preview](screenshots/dashboard-preview.png)
+
+### Budget vs Actual Data
+
+![Budget Data](screenshots/budget-data.png)
+
+### Monthly Summary
+
+![Monthly Summary](screenshots/monthly-summary.png)
+
+### Category Summary
+
+![Category Summary](screenshots/category-summary.png)
 
 ## Project Structure
 
